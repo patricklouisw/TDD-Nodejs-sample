@@ -17,3 +17,9 @@ The idea here is that the code we have is always tested based on our initial exp
 For this project, we are using `express-generator` to quickly give us a starting base to a Node/Express Js application.
 
 - `app.test.js` contains the test that we want
+
+## Running the project
+1.  Clone the project
+2.  `npm install`
+3.  - Run `npm start` to start backend
+    - Run `npm test` for testing with Jest
